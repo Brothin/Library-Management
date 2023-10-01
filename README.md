@@ -1,7 +1,3 @@
-# Backend Coding Assignment
-
-# Library Management System Coding Assignment
-
 # Objective: Develop a backend system for managing books in a library.
 
 # System Requirements:
